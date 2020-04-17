@@ -1,0 +1,15 @@
+*nvim-maximize-window-toggle.txt*
+                                                 *nvim-maximize-window-toggle*
+
+==============================================================================
+CONTENTS                                *nvim-maximize-window-toggle-contents*
+  1. Commands...........................|nvim-maximize-window-toggle-commands|
+
+==============================================================================
+COMMANDS                                *nvim-maximize-window-toggle-commands*
+
+:ToggleOnly                                                      *:ToggleOnly*
+  Maximize the current buffer as a toggle
+
+
+vim:tw=78:ts=8:ft=help:norl:
