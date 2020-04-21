@@ -1,6 +1,6 @@
 Toggles between the current window and the current buffer opened in a new tab page.
 
-![](https://i.imgur.com/6Uywn4H.gif)
+![Imgur](https://i.imgur.com/hdDqD9G.gif)
 
 ## Command
 
