@@ -1,9 +1,7 @@
 ""
 " @public
-" If the current tab page has more than one window,
-" opens the current buffer alone in a new tab.
-" Calling this function again in the new window will
-" close the tab and go back to the original window
+" Toggles between the current window and the current buffer
+" opened in a new tab page.
 ""
 function! nvim_maximize_window_toggle#ToggleOnly()
   if winnr("$") > 1
