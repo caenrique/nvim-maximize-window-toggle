@@ -5,7 +5,7 @@
 " Calling this function again in the new window will
 " close the tab and go back to the original window
 ""
-function! nvim-maximize-window-toggle#ToggleOnly()
+function! nvim_maximize_window_toggle#ToggleOnly()
   if winnr("$") > 1
   " There are more than one window in this tab
     if exists("b:maximized_window_id")
